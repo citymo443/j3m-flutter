@@ -1,4 +1,4 @@
-# JMComic3 Flutter
+# J3M fluttre(此为备份)
 
 [![Release](https://img.shields.io/github/v/release/MrYu-JMComic/JMcomic3-flutter)](https://github.com/MrYu-JMComic/JMcomic3-flutter/releases/latest)
 
